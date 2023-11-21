@@ -11,7 +11,9 @@
   "author": "Yana Stadnichenko",
   "license": "ISC",
   "dependencies": {
-    "commander": "^11.1.0",
+    "commander": "^11.1.0"
+  },
+  "devDependencies": {
     "nodemon": "^3.0.1"
   }
 }
